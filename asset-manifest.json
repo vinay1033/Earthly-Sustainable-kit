@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Earthly-Sustainable-kit/static/css/main.5e2e5cd7.css",
+    "main.js": "/Earthly-Sustainable-kit/static/js/main.6b407a59.js",
+    "static/js/787.8da53090.chunk.js": "/Earthly-Sustainable-kit/static/js/787.8da53090.chunk.js",
+    "static/media/c7.webp": "/Earthly-Sustainable-kit/static/media/c7.e42ae6f36e4f6e2e2b1c.webp",
+    "static/media/c1.webp": "/Earthly-Sustainable-kit/static/media/c1.97d828e2bd67c7822839.webp",
+    "static/media/c4.webp": "/Earthly-Sustainable-kit/static/media/c4.b188c661009ba957e0a8.webp",
+    "static/media/c8.jpeg": "/Earthly-Sustainable-kit/static/media/c8.52a2bb62d345b53ed68b.jpeg",
+    "static/media/c5.webp": "/Earthly-Sustainable-kit/static/media/c5.616d353179ef87e47eda.webp",
+    "static/media/c2.webp": "/Earthly-Sustainable-kit/static/media/c2.363f05623d1075c0db42.webp",
+    "static/media/c6.webp": "/Earthly-Sustainable-kit/static/media/c6.fd6e149465eefc6d1c7d.webp",
+    "static/media/c3.webp": "/Earthly-Sustainable-kit/static/media/c3.013c5725f62ad6dd6d6d.webp",
+    "static/media/logos.webp": "/Earthly-Sustainable-kit/static/media/logos.33724ae985801db549bb.webp",
+    "index.html": "/Earthly-Sustainable-kit/index.html",
+    "main.5e2e5cd7.css.map": "/Earthly-Sustainable-kit/static/css/main.5e2e5cd7.css.map",
+    "main.6b407a59.js.map": "/Earthly-Sustainable-kit/static/js/main.6b407a59.js.map",
+    "787.8da53090.chunk.js.map": "/Earthly-Sustainable-kit/static/js/787.8da53090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2e5cd7.css",
+    "static/js/main.6b407a59.js"
+  ]
+}
